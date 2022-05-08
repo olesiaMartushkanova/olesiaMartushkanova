@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently focusing on **web development with Node.js and React**
 
-- 📝 I regularly write articles on [https://medium.com/@olesia.martushkanova](https://medium.com/@olesia.martushkanova)Cancel changes
+- 📝 I regularly write articles on [https://medium.com/@olesia.martushkanova](https://medium.com/@olesia.martushkanova)
 
 - 📫 Find out more about me **https://www.itiscooltolearn.com/**
 
