@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Olesia</h1>
 <h3 align="center">I love to code in TypeScript.</h3>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/olesia_learns" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/olesia_learns?logo=twitter&style=for-the-badge" alt="https://twitter.com/olesia_learns" /></a> </p>
-
 - 🌱 I’m currently focusing on **web development with Node.js and React**
 
-- 📝 I regularly write articles on [https://medium.com/@olesia.martushkanova](https://medium.com/@olesia.martushkanova)
+- 📝 I regularly write articles on [https://medium.com/@olesia.martushkanova](https://medium.com/@olesia.martushkanova)Cancel changes
 
 - 📫 Find out more about me **https://www.itiscooltolearn.com/**
 
