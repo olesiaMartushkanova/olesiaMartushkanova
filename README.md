@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently focusing on **web development with Node.js and React**
 
-- 📫 Find out more about me **https://www.itiscooltolearn.com/**
-
 - ⚡ Fun fact **I like talking with my rubber duck**
 
 <h3 align="left">Languages and Tools:</h3>
