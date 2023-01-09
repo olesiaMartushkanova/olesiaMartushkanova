@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olesia</h1>
 <h3 align="center">I love to code in TypeScript.</h3>
 
-- 🌱 I’m currently focusing on **web development with Node.js and React**
+- - 📫 Find out more about me **https://www.itiscooltolearn.com/**
 
 - ⚡ Fun fact **I like talking with my rubber duck**
 
